@@ -8,13 +8,13 @@
 * How to run tests =>  mvn clean install -DsuiteXmlFile=join_assembly.xml
 * Deployment instructions
 
-
 ### Contribution guidelines ###
 
 * Writing tests
 * Code review
 * Other guidelines
 
+### Report Path
+* For detailed report go to target/cucumber-reports-html
+
 ### ADD following git ignore file manually on server or local ###
-poslite/resoucres/ => this path test_data_sheets folder
-poslite/resoucres/ => apk folder to store apk
